@@ -10,4 +10,5 @@ spec:
   source:
     repoURL: https://github.com/ksmithk6n/learn-argocd.git
     targetRevision: main
+    path: /
 
